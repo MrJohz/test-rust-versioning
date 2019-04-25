@@ -1,0 +1,3 @@
+# test-rust-versioning
+
+Uses two different versions of rand in the same code.  Not hugely interesting, but hey...
