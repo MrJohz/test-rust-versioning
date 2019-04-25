@@ -1,0 +1,9 @@
+[package]
+name = "dependency-heaven"
+version = "0.1.0"
+authors = ["Jonathan <jonathan.frere@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
+old_rand = { version ="0.4", package = "rand" }
